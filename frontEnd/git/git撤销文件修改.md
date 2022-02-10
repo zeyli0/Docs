@@ -15,8 +15,8 @@ git checkout .
 
 
 ```
- git config --global user.eamil "zeyli0@163.com"
- git config --global user.name "zeyli0"
+ git config --global user.eamil "xxxxx@163.com"
+ git config --global user.name "xxxxx"
  git config -l // 查看配置好的项
 ```
 
